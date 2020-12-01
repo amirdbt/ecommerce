@@ -19,6 +19,7 @@ export default makeStyles((theme) => ({
   },
   link: {
     textDecoration: "none",
+    cursor: "pointer",
   },
   cardDetails: {
     display: "flex",
